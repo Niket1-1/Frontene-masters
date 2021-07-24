@@ -1,5 +1,5 @@
 body{
-    font-family: 'Times New Roman', Times, serif;
+    font-family: sans-serif;
     @media screen and (max-width: 1024px;) and (min-width :480px);  
     padding: 0%;
     margin: 0%; 
