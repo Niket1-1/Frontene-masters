@@ -10,6 +10,8 @@ function login(){
         window.location.href="courses.html"
     
     }else{
-        alert("wrong credentials")
+        var p=document.getElementById('error')
+        p.innerText="Wrong Credentials"
+        p.style.color="red"
     }
 }
