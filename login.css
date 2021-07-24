@@ -1,9 +1,12 @@
-
+body{
+    margin:0%;
+    padding:0%;
+}
     main{
         background-color: rgb(83, 90, 83);
         height: 400px;
-        margin:0%;
-        padding:0%;
+     
+      
     }
 
   .comman{
