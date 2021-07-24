@@ -1,12 +1,12 @@
+
 body{
-    margin:0%;
-    padding:0%;
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
 }
     main{
         background-color: rgb(83, 90, 83);
         height: 400px;
-     
-      
     }
 
   .comman{
@@ -237,6 +237,8 @@ body{
        border-radius: 20px;
        color: white;
        font-size: 18px;
+       text-decoration: none;
+       border: none;
 
 
    }
@@ -246,4 +248,7 @@ body{
        background-color: transparent;
        outline: none;
        border-top-style: none;
+   }
+   input[type=text]{
+       border: 3px solid red;
    }
