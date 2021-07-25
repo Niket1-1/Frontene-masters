@@ -21,11 +21,11 @@ Batch :Web 10
 
 
 
-2)   Rajnish Kumar  (fw10_209)(GIT-PROFILE:rajnish209) - Signup or Payment Page , Local Storage , Sign up Functionalities.
+2)   Rajnish Kumar  (fw10_209)(GIT-PROFILE:rajnish209) - Signup or Payment Page , Local Storage , Sign up Functionalities , Header ,Footer.
 
 
 
-3)   Amit Yadav (nj2_110)(GIT-PROFILE:amit9793) - Login Page ,Login page Designing.
+3)   Amit Yadav (nj2_110)(GIT-PROFILE:amit9793) - Login Page ,Login page Designing , Header ,Footer, Login Functionalities using js.
 
 
 
