@@ -47,4 +47,4 @@ Batch :Web 10
 - These Corses are for beginner and experienced both.
 
 
-Other Image source is - #GOOGLE .
+Other Image source is - # GOOGLE .
