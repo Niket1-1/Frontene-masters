@@ -1,10 +1,10 @@
-#Frontend Masters Clone By Team No-17 (Web-10 batch)
+#FRONTEND MASTERS CLONE BY TEAM NO-17 (WEB-10 BATCH)
 
 Masai School
 
 Batch :Web 10
 
-Sources:
+# SOURCES:
 
 - Images: Frontend-masters
 
@@ -14,7 +14,7 @@ Sources:
 
 - Live demo:Frontend-Masters
 
-#Members and their Responsibility
+# MEMBES AND THEIR RESPONSIBILITY
 
 
 1)  Niket Nayan (nj2_058)(GIT-PROFILE:Niket1-1):- Landing Page, Local Storage, Navigation Bar,Header, Footer, Git Merging , Login Page Functionalities ,Media Queries(Responsiveness fo Websites in all Screen Ratioo) , README.md.
@@ -47,4 +47,4 @@ Sources:
 - These Corses are for beginner and experienced both.
 
 
-Other Image source is - Google .
+Other Image source is - #GOOGLE .
