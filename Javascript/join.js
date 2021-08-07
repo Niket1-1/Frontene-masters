@@ -43,6 +43,46 @@ function startlearning(){
 function joinnow(){
     window.location.href="joinnow.html"
 }
+
+
+src="https://use.fontawesome.com/releases/v5.15.3/js/all.js"
+ 
+     function block2click(){
+
+       let h=document.getElementById("plans")
+       h.innerText="Register for a Yearly Account"
+
+
+
+
+     }
+     function block1click(){
+
+let h=document.getElementById("plans")
+h.innerText="Register for a Monthly Account"
+
+
+
+
+}
+function block3click(){
+
+let h=document.getElementById("plans")
+h.innerText="Register for a Monthly Team Account"
+
+
+
+
+}
+function block4click(){
+
+let h=document.getElementById("plans")
+h.innerText="Register for a Yearly Team Account"
+
+
+
+
+}
     
   
     

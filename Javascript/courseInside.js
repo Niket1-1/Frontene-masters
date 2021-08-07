@@ -8,7 +8,7 @@ play.addEventListener('click',function(){
 
     let iframe = document.createElement('iframe');
 
-    iframe.src = "preview.mp4";
+    iframe.src = "Assets/preview.mp4";
 
     iframe.style.width = "100%";
     iframe.style.height = "100%";
