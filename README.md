@@ -72,6 +72,8 @@ Screenshots of our product
 - Register Page
 ![register](https://user-images.githubusercontent.com/86410005/128599547-aa7ae647-f71f-4272-b56f-c21b647c6ac0.png)
 
+- Course Page
+![popular course](https://user-images.githubusercontent.com/86410005/128599608-48616cf7-8264-47d7-8fd3-af3fbe279a6f.png)
 
 
 Other Image source is - # GOOGLE .
