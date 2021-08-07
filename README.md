@@ -33,6 +33,8 @@ Batch :Web 10
 # MEMBES AND THEIR RESPONSIBILITY
 
 
+
+
 1)  Niket Nayan (nj2_058)(GIT-PROFILE:Niket1-1):- Landing Page, Local Storage, Navigation Bar,Header, Footer, Git Merging , Login Page Functionalities ,Media Queries(Responsiveness fo Websites in all Screen Ratioo) , README.md.
 
 
@@ -61,6 +63,8 @@ Batch :Web 10
 - This site doesnot provide free courses to their Users.
 - Uses only able to Visit some part of course and for full Access they will have to purchase some Plans for List .
 - These Corses are for beginner and experienced both.
+
+![login](https://user-images.githubusercontent.com/86410005/128596506-417d79d8-d4e3-45a4-b78a-f3c2a1ef745b.png)
 
 
 Other Image source is - # GOOGLE .
