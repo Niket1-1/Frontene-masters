@@ -29,9 +29,6 @@ Batch :Web 10
 12) https://image.flaticon.com/icons/png/128/733/733547.png
 13) https://image.flaticon.com/icons/png/128/1409/1409946.png
 
-# JS SOURCE
-1) https://static.frontendmasters.com/assets/fm/js/core.924099a49e9cbddb1487.js
-2) https://static.frontendmasters.com/assets/fm/js/home.924099a49e9cbddb1487.js
 
 # MEMBES AND THEIR RESPONSIBILITY
 
