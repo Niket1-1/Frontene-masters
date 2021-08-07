@@ -14,7 +14,20 @@ Batch :Web 10
 
 - Live demo:Frontend-Masters
 
-#IMAGE SOURCES LINK
+# IMAGE SOURCES LINK
+1) data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+2) https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png
+3) https://www.filepicker.io/api/file/SVFQZQAyRpqJ31f6LNGe
+4) https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png
+5) https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg
+6) https://ruinmyweek.com/wp-content/uploads/2020/08/parents-netflix-tweets-13.png
+7) https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGrS_23avD5oPibZ_X6meBivSCXgKaUKeBA&usqp=CAU
+8) https://static.frontendmasters.com/assets/fm/js/frontendmasters.e1e10b58c1.svg
+9) https://static.frontendmasters.com/assets/fm/js/frontendmasters.e1e10b58c1.svg
+10) https://image.flaticon.com/icons/png/128/733/733579.png
+11) https://image.flaticon.com/icons/png/128/174/174857.png
+12) https://image.flaticon.com/icons/png/128/733/733547.png
+13) https://image.flaticon.com/icons/png/128/1409/1409946.png
 
 
 # MEMBES AND THEIR RESPONSIBILITY
