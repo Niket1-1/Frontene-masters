@@ -64,7 +64,14 @@ Batch :Web 10
 - Uses only able to Visit some part of course and for full Access they will have to purchase some Plans for List .
 - These Corses are for beginner and experienced both.
 
-![login](https://user-images.githubusercontent.com/86410005/128596506-417d79d8-d4e3-45a4-b78a-f3c2a1ef745b.png)
+Screenshots of our product
+
+- Landing Page
+![home](https://user-images.githubusercontent.com/86410005/128599447-b512053a-41ff-49fa-96c6-ac807bc835cd.png)
+
+- Register Page
+![register](https://user-images.githubusercontent.com/86410005/128599547-aa7ae647-f71f-4272-b56f-c21b647c6ac0.png)
+
 
 
 Other Image source is - # GOOGLE .
