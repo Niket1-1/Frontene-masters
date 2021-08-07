@@ -15,7 +15,7 @@ Batch :Web 10
 - Live demo:Frontend-Masters
 
 # IMAGE SOURCES LINK
-1) data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+1) https://image.flaticon.com/icons/png/128/1409/1409946.png
 2) https://miro.medium.com/max/720/1*LjR0UrFB2a__5h1DWqzstA.png
 3) https://www.filepicker.io/api/file/SVFQZQAyRpqJ31f6LNGe
 4) https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png
