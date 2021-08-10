@@ -18,8 +18,8 @@
     window._bs = window._bs || {};
 
 function login(){
-    window.location.href="login.html"
+    window.location.href="HTML/login.html"
 }
 function signup(){
-    window.location.href="joinnow.html"
+    window.location.href="HTML/joinnow.html"
 }
